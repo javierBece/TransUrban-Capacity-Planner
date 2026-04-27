@@ -20,7 +20,7 @@ Este documento resume todos los cambios realizados para preparar el proyecto TRA
 #### Documentación de Proyecto
 | Archivo | Descripción | Propósito |
 |---------|-------------|----------|
-| **LICENSE** | MIT License 2025 | Licencia abierta del proyecto |
+| **LICENSE** | MIT License 2026 | Licencia abierta del proyecto |
 | **CHANGELOG.md** | Histórico v1.0.0 | Documentar cambios y roadmap |
 | **DEVELOPMENT.md** | Guía técnica completa | Para desarrolladores |
 | **CONTRIBUTING.md** | Guía de contribuciones | Para colaboradores |
@@ -49,14 +49,14 @@ Este documento resume todos los cambios realizados para preparar el proyecto TRA
 ### Contexto Académico
 ```
 Pontificia Universidad Católica de Chile
-Taller de Ingeniería Industrial (TII) - 1° Trimestre 2025
+Taller de Ingeniería Industrial (TII) - 1° Trimestre 2026
 Autores: Javier Becerra, Diego Raquelich, Valentina Morales
 ```
 
 ### Identificadores de Proyecto
 - 🏷️ Tipo: **Data Science & Optimization**
 - 🏷️ Estado: **Active**
-- 🏷️ Contexto: **Academic Project - TII 2025**
+- 🏷️ Contexto: **Academic Project - TII 2026**
 - 🐍 Versión Python: **3.10+**
 
 ### Secciones Profesionales

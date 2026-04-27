@@ -4,7 +4,7 @@ Todos los cambios notables en este proyecto serán documentados en este archivo.
 
 El formato está basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.0.0/), y este proyecto se adhiere a [Semantic Versioning](https://semver.org/lang/es/).
 
-## [1.0.0] - 2025-04-27
+## [1.0.0] - 2026-04-27
 
 ### Estado del Proyecto
 **PROYECTO COMPLETO - NO EN DESARROLLO ACTIVO**
@@ -62,7 +62,7 @@ Este proyecto es desarrollado como parte del Taller de Ingeniería Industrial en
 
 ---
 
-**Fecha de inicio del proyecto:** Enero 2025  
+**Fecha de inicio del proyecto:** Marzo 2026  
 **Fecha de finalización:** Abril 2026  
 **Estado actual:** Completo (Sin desarrollo activo)  
 **Versión actual:** 1.0.0  

@@ -5,9 +5,9 @@
 Si descubres una vulnerabilidad de seguridad, por favor **NO** la reportes públicamente en los issues de GitHub. 
 
 En su lugar, envía un email a:
-- **Javier Becerra** - jbecerra@uc.cl
-- **Diego Raquelich** - draquelich@uc.cl
-- **Valentina Morales** - vmorales@uc.cl
+- **Javier Becerra** - jabecerram@udd.cl
+- **Diego Raquelich** - draquelichm@udd.cl
+- **Valentina Morales** - vmoralesf@udd.cl
 
 Incluye en tu reporte:
 1. Descripción de la vulnerabilidad
@@ -37,4 +37,4 @@ Mantenemos el proyecto actualizado con las últimas versiones estables de depend
 
 **Institución:** Universidad del Desarrollo de Chile - Ingeniería Civil Industrial
 
-Última actualización: Abril 2025
+Última actualización: Abril 2026
